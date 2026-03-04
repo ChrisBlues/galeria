@@ -239,6 +239,15 @@
             background: linear-gradient(135deg, #3da9f7, #0b2f66);
         }
 
+        .theme-vif .iceworld {
+            background: linear-gradient(135deg, #3da9f7, #0b2f66);
+        }
+
+        .theme-vif .solarsystem {
+            background: linear-gradient(135deg, #0b1e3d, #1a3c6e, #4a7bbf);
+        }
+
+
         .theme-vif .card a {
             color: #fff;
         }
