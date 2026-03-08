@@ -247,6 +247,10 @@
             background: linear-gradient(135deg, #0b1e3d, #1a3c6e, #4a7bbf);
         }
 
+        .theme-vif .halloween {
+            background: linear-gradient(135deg, #0b0f1a, #3a1f47, #ff6f47);
+        }
+
 
         .theme-vif .card a {
             color: #fff;
