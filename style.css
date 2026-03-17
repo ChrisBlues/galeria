@@ -259,6 +259,9 @@
             background: linear-gradient(135deg, #0f1b3d, #d28c1c);
         }
 
+        .theme-vif .barbershop {
+            background: linear-gradient(135deg, #3B2F2F, #7A4E2D, #D9A066);
+        }
 
         .theme-vif .card a {
             color: #fff;
