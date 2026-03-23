@@ -267,6 +267,11 @@
             background: linear-gradient(135deg, #0f2a1f 0%, #174a34 40%, #1e5f42 70%,  #0f2a1f 100%);
         }
 
+        .theme-vif .fastshoes {
+            background: linear-gradient(90deg, #ffaa00, #ff8c00, #ff1a1a);
+
+        }
+
         .theme-vif .card a {
             color: #fff;
         }
