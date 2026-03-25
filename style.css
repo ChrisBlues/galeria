@@ -269,7 +269,10 @@
 
         .theme-vif .fastshoes {
             background: linear-gradient(90deg, #ffaa00, #ff8c00, #ff1a1a);
+        }
 
+        .theme-vif .captures {
+            background: linear-gradient(135deg, #0f0f0f 0%, #a4a0a0 40%, #2e2e2e 100%);
         }
 
         .theme-vif .card a {
