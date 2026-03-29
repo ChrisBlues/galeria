@@ -275,6 +275,14 @@
             background: linear-gradient(135deg, #0f0f0f 0%, #a4a0a0 40%, #2e2e2e 100%);
         }
 
+        .theme-vif .thelights {
+            background: linear-gradient(135deg, #1932c1 0%, #ff3e7f 45%, #e1af18 100%);
+        }
+
+        .theme-vif .drone {
+            background: linear-gradient(135deg, #0A1A2F, #0E4D92, #4FC3F7);
+        }
+
         .theme-vif .card a {
             color: #fff;
         }
