@@ -275,6 +275,10 @@
             background: linear-gradient(135deg, #0f0f0f 0%, #a4a0a0 40%, #2e2e2e 100%);
         }
 
+        .theme-vif .petdoctor {
+            background: linear-gradient(135deg, #1E3A3A 0%, #3F7F72 50%, #CFF5E7 100%)
+        }
+
         .theme-vif .thelights {
             background: linear-gradient(135deg, #1932c1 0%, #ff3e7f 45%, #e1af18 100%);
         }
