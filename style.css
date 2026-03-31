@@ -291,6 +291,10 @@
             background: linear-gradient(135deg, #0F141A 0%, #2C3E50 45%, #D9E6F2 100%);
         }
 
+        .theme-vif .jawa {
+            background: linear-gradient(135deg, #0D0D0D 0%, #1A1A1A 35%, #3A2F2F 70%, #7A4E2D 100%);
+        }
+
 
         .theme-vif .card a {
             color: #fff;
