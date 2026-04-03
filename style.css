@@ -300,10 +300,7 @@
         }
 
         .theme-vif .simplyhome {
-            /* background: linear-gradient(135deg, #F7F7F2 0%, #DCE7D2 50%, #B7D4C5 100%); */
             background: linear-gradient(135deg, #F4EFE7 0%, #D9C8B4 50%, #B89F8A 100%);
-            /* background: linear-gradient(135deg, #FFFFFF 0%, #E8F0F2 50%, #C7DDE5 100%); */
-
         }
 
         .theme-vif .card a {
