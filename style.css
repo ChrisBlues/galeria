@@ -303,6 +303,10 @@
             background: linear-gradient(135deg, #F4EFE7 0%, #D9C8B4 50%, #B89F8A 100%);
         }
 
+        .theme-vif .traveltoor {
+            background: linear-gradient(135deg, #FAD7A1 0%, #F3A683 40%, #6E7FF3 100%);
+        }
+
         .theme-vif .card a {
             color: #fff;
         }
