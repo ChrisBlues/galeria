@@ -307,6 +307,11 @@
             background: linear-gradient(135deg, #FAD7A1 0%, #F3A683 40%, #6E7FF3 100%);
         }
 
+        .theme-vif .market {
+            background: linear-gradient(135deg, #F64F23 0%, #4C647C 40%, #EDC087 100%);
+        }
+
+
         .theme-vif .card a {
             color: #fff;
         }
