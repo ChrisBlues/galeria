@@ -311,6 +311,10 @@
             background: linear-gradient(135deg, #F64F23 0%, #4C647C 40%, #EDC087 100%);
         }
 
+        .theme-vif .watch {
+            background: linear-gradient(135deg, #A46C42 0%, #ECA877 40%, #1D221E 100%);
+        }
+
 
         .theme-vif .card a {
             color: #fff;
