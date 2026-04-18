@@ -315,6 +315,10 @@
             background: linear-gradient(135deg, #A46C42 0%, #ECA877 40%, #1D221E 100%);
         }
 
+        .theme-vif .glowing {
+            background: linear-gradient(135deg, #ce7735 0%, #376b0c 70%, #e7eee9 100%);
+        }
+
 
         .theme-vif .card a {
             color: #fff;
