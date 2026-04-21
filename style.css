@@ -319,6 +319,9 @@
             background: linear-gradient(135deg, #ce7735 0%, #376b0c 70%, #e7eee9 100%);
         }
 
+        .theme-vif .yoga {
+            background: linear-gradient(135deg, #f7e9d7, #c8e6df, #8fb7a3);
+        }
 
         .theme-vif .card a {
             color: #fff;
