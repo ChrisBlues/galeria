@@ -327,6 +327,11 @@
             background: linear-gradient(135deg, #0f0f0f, #1a3c4a, #00ff88);
         }
 
+        .theme-vif .expresso {
+            background: linear-gradient(135deg, #FB735A43, #E5CCAE, #6D5749);
+            /* background: linear-gradient(135deg, #8B4513, #D2691E, #F4A460); */
+        }
+
         .theme-vif .card a {
             color: #fff;
         }
