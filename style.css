@@ -329,8 +329,20 @@
 
         .theme-vif .expresso {
             background: linear-gradient(135deg, #FB735A43, #E5CCAE, #6D5749);
-            /* background: linear-gradient(135deg, #8B4513, #D2691E, #F4A460); */
         }
+
+        .theme-vif .stilo {
+            background: linear-gradient(135deg, #1c1f26, #3a3f4b, #8a8f9b);
+        }
+
+        .theme-vif .fragrance {
+           background: linear-gradient(135deg, #f7d7e3, #e8a6c9, #b57fa4);
+        }
+
+        .theme-vif .woodzone {
+            background: linear-gradient(135deg, #4b2e17, #8c5a2b, #e0b07a);
+        }
+
 
         .theme-vif .card a {
             color: #fff;
