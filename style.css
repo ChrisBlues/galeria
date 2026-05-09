@@ -343,6 +343,9 @@
             background: linear-gradient(135deg, #4b2e17, #8c5a2b, #e0b07a);
         }
 
+        .theme-vif .furnix {
+            background: linear-gradient(135deg, #8C6D5B, #FFEB81, #355057);
+        }
 
         .theme-vif .card a {
             color: #fff;
