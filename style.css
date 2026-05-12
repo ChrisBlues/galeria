@@ -336,7 +336,7 @@
         }
 
         .theme-vif .fragrance {
-           background: linear-gradient(135deg, #f7d7e3, #e8a6c9, #b57fa4);
+            background: linear-gradient(135deg, #f7d7e3, #e8a6c9, #b57fa4);
         }
 
         .theme-vif .woodzone {
@@ -346,6 +346,11 @@
         .theme-vif .furnix {
             background: linear-gradient(135deg, #8C6D5B, #FFEB81, #355057);
         }
+
+        .theme-vif .mystic {
+            background: linear-gradient(135deg, #0d0d0f 0%, #2b1f3a 45%, #6a4c93 100%);
+        }
+
 
         .theme-vif .card a {
             color: #fff;
