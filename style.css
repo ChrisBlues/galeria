@@ -356,29 +356,17 @@
         }
 
         .theme-vif .capitales {
-background-image: linear-gradient(
-  135deg,
-  #4b79a1 0%,
-  #283e51 40%,
-  #dd4a56 100%
-);        
-/* background-image: linear-gradient(
-  120deg,
-  #ff8f6c 0%,
-  #dd4a56 35%,
-  #6c4fa9 100%
-); */
-/* background-image: linear-gradient(
-  160deg,
-  #1d1a26 0%,
-  #3b2f4a 50%,
-  #7cb0e0 100%
-); */
-}
+            background-image: linear-gradient(135deg, #4b79a1 0%, #283e51 40%, #dd4a56 100%);
+        }
 
-    .theme-vif .crafti {
-        background: linear-gradient(135deg, #8C5A3C, #D9B08C);
-    }
+        .theme-vif .petit-dejeuner {
+            background: linear-gradient(135deg, #F7D08A, #FCEED3);
+        }
+
+
+        .theme-vif .crafti {
+            background: linear-gradient(135deg, #8C5A3C, #D9B08C);
+        }
 
 
 
