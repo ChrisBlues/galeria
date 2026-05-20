@@ -376,6 +376,11 @@ background-image: linear-gradient(
 ); */
 }
 
+    .theme-vif .crafti {
+        background: linear-gradient(135deg, #8C5A3C, #D9B08C);
+    }
+
+
 
         .theme-vif .card a {
             color: #fff;
