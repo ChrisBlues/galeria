@@ -682,6 +682,10 @@
             background: linear-gradient(135deg, #5f5f63 0%, #4d4135 50%, #f0b71b 100%);
         }
 
+        .theme-vif .eduweb {
+            background: linear-gradient(135deg, #20c997, #4dabf7);;
+        }
+
         .theme-vif .card a {
             color: #fff;
         }
