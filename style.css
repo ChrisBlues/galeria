@@ -683,7 +683,11 @@
         }
 
         .theme-vif .eduweb {
-            background: linear-gradient(135deg, #20c997, #4dabf7);;
+            background: linear-gradient(135deg, #20c997, #4dabf7);
+        }
+
+        .theme-vif .indoreplants {
+            background: linear-gradient(135deg, #052e16 0%, #166534 50%, #facc15 100%);
         }
 
         .theme-vif .card a {
